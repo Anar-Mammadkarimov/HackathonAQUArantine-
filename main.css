@@ -9984,7 +9984,8 @@ a, button, .btn {
 .app-header__logo .logo-src {
   height: 23px;
   width: 97px;
-  background: url(assets/images/logo-inverse.png)
+  margin-left: 35px;
+  background: url(/home/nariman/Desktop/architectui-html-free1/architectui-html-free/architectui-html-free/assets/images/logo-inverse.png)
 }
 
 .app-header__menu, .app-header__mobile-menu {
